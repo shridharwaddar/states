@@ -1,0 +1,92 @@
+[
+    {
+       "movie":"KGF2",
+       "lang":"Kannada",
+       "actors":["Yash", "Shrinidhi"],
+       "year":2021,
+       "collection":"1500CR",
+       "photo":"https://tse2.mm.bing.net/th?id=OIF.0D2dK2pve8wVefaIl%2fcusQ&pid=Api&P=0"
+        
+    },
+    {
+        "movie":"RRR",
+        "lang":"Telgu",
+        "actors":["Ramcharn", "NTR","Allia "],
+        "year":2021,
+        "collection":"1300CR",
+        "photo":"https://tse2.mm.bing.net/th?id=OIP.HNz0oaRTaWdoXBtaKp3e9gHaGL&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Bahubali",
+        "lang":"Kannada",
+        "actors":["Prabhas", "Anushaka"],
+        "year":2019,
+        "collection":"1700CR",
+        "photo":"https://tse4.mm.bing.net/th?id=OIP.c3EkY1A-VneWo_pe-LgXFQHaK-&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Kantara",
+        "lang":"Kannada",
+        "actors":["Rishab", "Sapathami"],
+        "year":2022,
+        "collection":"450CR",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.CfrTcQcIzLfQzGCIClht2gHaEc&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Kranti",
+        "lang":"Kannada",
+        "actors":["Darshan", "Rachita Ram"],
+        "year":2023,
+        "collection":"150CR",
+        "photo":"https://tse3.mm.bing.net/th?id=OIP.TU9Bs7NSq31kjKn8qTx9QwAAAA&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Vikranth rona",
+        "lang":"Kannada",
+        "actors":["Sudeep", "Jackellin"],
+        "year":2022,
+        "collection":"350CR",
+        "photo":"https://tse1.mm.bing.net/th?id=OIP.h_3udck1s7_oKRuA3vzIygHaLH&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Dangal",
+        "lang":"Hindi",
+        "actors":["Amir Khan", "Shreya"],
+        "year":2020,
+        "collection":"1800CR",
+        "photo":"https://tse2.mm.bing.net/th?id=OIP.RnXJemOKnaW7njlQ2CmqPgHaJ4&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Sultan",
+        "lang":"Hindi",
+        "actors":["Salman Khan", "Anushaka"],
+        "year":2018,
+        "collection":"700CR",
+        "photo":"https://tse4.explicit.bing.net/th?id=OIP.qWiWobHfH5mOyC21zBmQfAHaKK&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"Charlie 777",
+        "lang":"Kannada",
+        "actors":["Rakshith", "Shrinidhi"],
+        "year":2022,
+        "collection":"300CR",
+        "photo":"https://tse2.mm.bing.net/th?id=OIP.GcC6iDd-coTJ8g4GL-zJpAHaE8&pid=Api&P=0"
+         
+     },
+     {
+        "movie":"mr&msr Ramachari",
+        "lang":"Kannada",
+        "actors":["Yash", "Radhika"],
+        "year":2017,
+        "collection":"100CR",
+        "photo":"https://tse3.mm.bing.net/th?id=OIP.vER3ZMOkcqajp1SpfT6DpAHaEK&pid=Api&P=0"
+         
+     }
+]
